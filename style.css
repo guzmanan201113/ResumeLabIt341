@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 225, 251);
+}
+
+.mainheader{
+    color: black;
+    font-family: Montserrat;
+    text-align: center;
+}
+
+.welcome{
+    text-align: center;
+    font-family: Montserrat;
+}
+.centertext{
+    text-align: center;
+    font-family: Montserrat;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+
+
+.mainnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Montserrat;
+}
+
+.worktitle{
+    margin-left: 10px;
+    font-family: Montserrat;
+}
+.reg{
+    list-style-type: circle;
+    font-family: Montserrat;
+}
+
+.limain{
+    display: inline-block;
+}
+
+li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+
+li a:hover{
+    background-color: pink;
+}
+
+img{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+
+}
